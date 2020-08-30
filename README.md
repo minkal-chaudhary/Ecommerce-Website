@@ -1,21 +1,31 @@
 # Ecommerce-Website
+## Authentication:You need to register before login.
+![Screenshot (579)](https://user-images.githubusercontent.com/61204357/91665215-85cd0a00-eb11-11ea-823a-c5748e01d0fb.png)
+<br/>
+## After registering our details saved in database so now we are able to login.If without registering we login its shows Invalid user.
+![Screenshot (580)](https://user-images.githubusercontent.com/61204357/91665230-92e9f900-eb11-11ea-893b-48233d8df938.png)
+<br/>
+## Home page:
+![Screenshot (581)](https://user-images.githubusercontent.com/61204357/91665233-95e4e980-eb11-11ea-85c7-0607bcd81195.png)
+<br/>
+![Screenshot (583)](https://user-images.githubusercontent.com/61204357/91665242-b4e37b80-eb11-11ea-86bb-24d1cf17c5ea.png)
+<br/>
+## Initially my cart is Empty
+![Screenshot (582)](https://user-images.githubusercontent.com/61204357/91665241-b1e88b00-eb11-11ea-8e39-cd6f019da7a8.png)
+<br/>
+## Now we start to adding products(i.e books) into cart.
+![Screenshot (584)](https://user-images.githubusercontent.com/61204357/91665251-c593f180-eb11-11ea-8bf3-b52c2eb5b46e.png)
+<br/>
+## cart after adding products.
+![Screenshot (585)](https://user-images.githubusercontent.com/61204357/91665252-c9277880-eb11-11ea-96eb-39e3a4f42668.png)
+<br/>
+## Increasing product in cart from cart itself.
+![Screenshot (586)](https://user-images.githubusercontent.com/61204357/91665254-cdec2c80-eb11-11ea-8f56-3e4f151215a0.png)
+<br/>
+## Decreasing from cart.
+![Screenshot (587)](https://user-images.githubusercontent.com/61204357/91665255-d3497700-eb11-11ea-8f3a-6626ab6edfc3.png)
+<br/>
 
-
-![Screenshot (560)](https://user-images.githubusercontent.com/61204357/91660156-31fef880-eaf2-11ea-9ddd-6d3de58dd1ef.png)
-</br>
-![Screenshot (561)](https://user-images.githubusercontent.com/61204357/91660162-45aa5f00-eaf2-11ea-881a-293526ade0a9.png)
-</br>
-![Screenshot (562)](https://user-images.githubusercontent.com/61204357/91660273-ff093480-eaf2-11ea-8401-c367d40dfd0d.png)
-</br>
-![Screenshot (563)](https://user-images.githubusercontent.com/61204357/91660276-029cbb80-eaf3-11ea-9321-548d462d8f18.png)
-</br>
-![Screenshot (564)](https://user-images.githubusercontent.com/61204357/91660294-2102b700-eaf3-11ea-9d10-b9f4ccd88656.png)
-</br>
-![Screenshot (565)](https://user-images.githubusercontent.com/61204357/91660298-27912e80-eaf3-11ea-85d5-ddb93d2ce634.png)
-</br>
-![Screenshot (566)](https://user-images.githubusercontent.com/61204357/91660299-29f38880-eaf3-11ea-873d-cc3f104d0739.png)
-</br>
-![Screenshot (567)](https://user-images.githubusercontent.com/61204357/91660301-2bbd4c00-eaf3-11ea-987c-b13eb29d25e5.png)
 
 
 

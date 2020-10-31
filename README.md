@@ -2,7 +2,7 @@
 ## Authentication:You need to register before login.
 ![Screenshot (579)](https://user-images.githubusercontent.com/61204357/91665215-85cd0a00-eb11-11ea-823a-c5748e01d0fb.png)
 <br/>
-## After registering our details saved in database so now we are able to login.If without registering we login its shows Invalid user.
+## After registering our details saved in database so now we are able to login.If without registering we login it shows Invalid user.
 ![Screenshot (580)](https://user-images.githubusercontent.com/61204357/91665230-92e9f900-eb11-11ea-893b-48233d8df938.png)
 <br/>
 ## Home page:
